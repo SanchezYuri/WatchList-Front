@@ -1,2 +1,2 @@
 # WatchList-Front
-FrontEnd of project WatchList
+FrontEnd of project WatchList using VueJs
